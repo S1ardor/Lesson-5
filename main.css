@@ -1,0 +1,22 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.result__text {
+    max-width: 210px;
+    width: 100%;
+    border: 1px solid #999;
+    padding: 0.35rem;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.sty-form {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    width: 100%;
+    margin-top: 20px;
+}
